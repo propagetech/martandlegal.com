@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/ab07fcc1f305df70416e8ce70a8e86e9.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/df79bd5eb8115a8e3336d2cb212e4c29.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('fonts/41eae6f88194706e4cb26de3ac737d8a.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('fonts/c611dfa86762dbed0a7fd1e3d5f1a36c.ttf') format('truetype');
+}
