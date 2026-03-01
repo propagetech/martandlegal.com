@@ -30,24 +30,24 @@ Files and context:
     }
   },
   {
-    "path": "blog.html",
-    "context": {
-      "title": "Martand Legal Advisor | News & Deals Closings",
-      "first_heading": "News and Deals"
-    }
-  },
-  {
-    "path": "blog_nri-investments-in-india.html",
+    "path": "blog-nri-investments-in-india.html",
     "context": {
       "title": "NRI Investments in India",
       "first_heading": "NRI Investments in India"
     }
   },
   {
-    "path": "blog_trust-vs--society.html",
+    "path": "blog-trust-vs-society.html",
     "context": {
       "title": "Trust vs. Society",
       "first_heading": "Trust vs. Society"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "Martand Legal Advisor | News & Deals Closings",
+      "first_heading": "News and Deals"
     }
   },
   {
@@ -142,7 +142,19 @@ Files and context:
     }
   },
   {
+    "path": "imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/08e30ce95340d95cbf817d703e1bba7c.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/19150e5d8016427e5dbc078be06ea471.webp",
     "context": {
       "refs": []
     }
@@ -159,6 +171,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/279f98bd9deab275aebebd7214e9d4c3.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/2b9060eebc52561d616f9497da26cf12.webp",
     "context": {
       "refs": [
@@ -171,6 +189,24 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/313df26176480a4be087420ec3c398f7.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/371cd9c4752fd50d6a72cd0cba994035.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/3e39582987706d41db721482687f8a62.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -197,6 +233,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/4aab3f831c0e7baf51fbd0e325284188.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -274,6 +316,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/778ce088b476a3490d58caa02448e0e9.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/8caf217ca1f3a27d6cdd52892c4aa744.webp",
     "context": {
       "refs": [
@@ -282,6 +330,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/98d048157833e846710898487cf450dc.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -300,6 +354,36 @@ Files and context:
     }
   },
   {
+    "path": "imgs/a05a1213195e25e4263442415678b692.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/a490f104164a21f043b30ed302f2b591.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b0dc1228f2c289cb6d03084943206cf0.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b2d378ddf6df5d0ae8c6424d30081bc4.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b5721aca08135b6e061e17fae4016faa.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/b5f58e6f4ec2fb82af597357412a7f5d.webp",
     "context": {
       "refs": [
@@ -312,6 +396,30 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/b9832ce1e3dabce86326d05cacb89f43.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/bc26b60905a3cde8bd01d4872187a47a.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/c1ec2177520de19f711646ff95f865e6.svg",
+    "context": {
+      "refs": []
     }
   },
   {
